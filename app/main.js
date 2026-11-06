@@ -1,7 +1,6 @@
 let livros = []
 const endpointDaApi = "https://guilhermeonrails.github.io/casadocodigo/livros.json"
 getBuscarLivrosDaAPI()
-fetch(endpointDaApi)
 const ElementoParaInserirLivros = document.getElementById('livros')
 
 
